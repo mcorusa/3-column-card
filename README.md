@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/mcorusa/3-column-card](https://github.com/mcorusa/3-column-card)
+- Live Site URL: [https://mcorusa.github.io/3-column-card/](https://mcorusa.github.io/3-column-card/)
 
 ## My process
 
